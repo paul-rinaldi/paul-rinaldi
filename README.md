@@ -1,7 +1,7 @@
 ### Hi, I'm Paul! 👋
 
 - 🔭 I’m currently working on software for ChemDirect 
-- 🌱 I’m currently learning Rust, Golang, and 
+- 🌱 I’m currently learning Rust and Golang!
 - 👯 I’m looking to collaborate on long term web3 dApps.
 - 🤔 I’m looking for help with finding web3 gigs/jobs.
 - 💬 Ask me about fullstack, jamstack, and bots!
