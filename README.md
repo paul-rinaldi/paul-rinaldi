@@ -1,7 +1,5 @@
 ### Hi, I'm Paul! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on software for ChemDirect 
 - 🌱 I’m currently learning Rust, Golang, and 
 - 👯 I’m looking to collaborate on long term web3 dApps.
