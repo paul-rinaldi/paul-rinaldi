@@ -1,6 +1,6 @@
 ### Hi, I'm Paul! 👋
 
-- 🔭 I’m currently working on software for ChemDirect 
+- 🔭 I’m currently working on software for ChemDirect, EasyMint, and Day And Night Consulting 
 - 🌱 I’m currently learning Rust and Golang!
 - 👯 I’m looking to collaborate on long term web3 dApps.
 - 🤔 I’m looking for help with finding web3 gigs/jobs.
